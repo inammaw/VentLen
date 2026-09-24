@@ -1,0 +1,12 @@
+# ====================================================================
+# VentureLens - Aiven Cloud Database Configuration (Template)
+# Copy this file to db.properties and set your credentials.
+# ====================================================================
+db.type=postgresql
+db.host=pg-24c49dac-gowthamgowri73-1585.h.aivencloud.com
+db.port=28072
+db.name=defaultdb
+db.user=avnadmin
+db.password=YOUR_AIVEN_PASSWORD_HERE
+db.sslMode=require
+db.serviceUri=postgres://avnadmin:YOUR_AIVEN_PASSWORD_HERE@pg-24c49dac-gowthamgowri73-1585.h.aivencloud.com:28072/defaultdb?sslmode=require

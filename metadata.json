@@ -1,0 +1,6 @@
+{
+  "name": "VentureLens - Startup Operating System",
+  "description": "Startup decision support system with Gemini AI analysis, rule-based NLP validation, CapTable simulator, BurnWatch, and AI investor diligence reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
